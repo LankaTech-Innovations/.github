@@ -1,6 +1,6 @@
 # LankaTech Innovations
 
-[![GitHub license](https://img.shields.io/github/license/LankaTech/LankaTech-Innovations)]([LICENSE URL])
+[![GitHub license](https://img.shields.io/github/license/LankaTech/LankaTech-Innovations)](https://github.com/LankaTech-Innovations/.github/blob/main/profile/LICENSE.md)
 
 LankaTech Innovations is a leading Sri Lankan technology company specializing in custom software development, mobile app development, web development, e-commerce solutions, and IT consulting. We empower businesses to thrive in the digital age through innovative and tailored technology solutions.
 
