@@ -25,9 +25,9 @@ To empower Sri Lankan businesses through innovative technology solutions.
 
 **Contact:**
 
-[https://lankatechinnovations.com]
+Website: https://lankatechinnovations.com
 
-[support@lankatechinnovations.com]
+Email: support@lankatechinnovations.com
 
 ## License
 
